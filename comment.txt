@@ -1,0 +1,1 @@
+post_num	comment_num	아이디	닉네임	시간	내용
